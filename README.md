@@ -1,1 +1,1 @@
-# ConfApp
+# ConfApps
